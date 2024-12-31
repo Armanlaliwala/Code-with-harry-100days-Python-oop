@@ -1,0 +1,1 @@
+formatted_time= time.strftime("%y-%m-%d %h:%m:%s",t)
